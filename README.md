@@ -14,9 +14,7 @@
    <a href="https://www.linkedin.com/in/osama-abozaid-260329217/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>...
 <!---
-----
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Osama-Abozaid&show_icons=true)]
-----
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Osama-Abozaid)](https://github.com/anuraghazra/github-readme-stats)
 Osama-Abozaid/Osama-Abozaid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
